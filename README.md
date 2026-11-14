@@ -84,3 +84,10 @@ For a real deployment, add a controlled AWS integration (for example, read-only 
 
 ## Windows compatibility note
 The detector uses NumPy instead of scikit-learn IsolationForest. This avoids native scikit-learn DLLs that can be blocked by Windows Application Control/Defender policies.
+
+
+## Team Members
+1.Krithika K
+2.Nidhi Rai D
+3.Pranitha
+4.Raksha T D
