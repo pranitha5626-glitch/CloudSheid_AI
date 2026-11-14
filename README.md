@@ -88,6 +88,3 @@ The detector uses NumPy instead of scikit-learn IsolationForest. This avoids nat
 
 ## Team Members
 1.Krithika K
-2.Nidhi Rai D
-3.Pranitha
-4.Raksha T D
